@@ -1,22 +1,22 @@
-#CV (Markdown & Git)
+# CV (Markdown & Git)
 
-##Name
+## Name
 Aleksey Paulavets
 
-##Contact Info
+## Contact Info
 +37060845099, goodman39608@gmail.com
 
-##Summary
+## Summary
 An enthusiastic, natural and driven person who is interested in working for company who is market leader in their respective field. Proactive in generation business and taking every opportunity to close deals. A creative person who can push existing limits by following up new leads or referrals fully. Presently seeking an opportunity to make a significant contribution with an an ambitious company.
 
-##Skills
+## Skills
 HTML/CSS, JavaScript, October CMS, Liquid, SQL, Java
 
-##Experience
+## Experience
 Freelance web development using HTML, CSS, JavaScript, October CMS, Liquid.
 
-##Education
+## Education
 Vilnius University, International Business, 3rd course.
 
-##English
+## English
 I'm studing in English at university right now.
